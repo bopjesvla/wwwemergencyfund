@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Basefund</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<style>
+body::before, body::after {
+content: '';
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100vw;
+z-index: -1;
+background-image: linear-gradient(transparent 90%, #fff), url(cover.webp);
+opacity: 0.05;
+background-size: cover;
+}
+body::after {
+top: 100vw;
+background-image: linear-gradient(#fff, transparent 10%, transparent 90%, #fff), url(cover.webp);
+    transform: scaleX(-1);
+}
+body {text-shadow: 0 0 1px #fff;}
+@media screen and (min-width: 1000px) and (min-height: 1000px) {
+body::after {margin-bottom: -70%;}
+}
+</style>
+<h1
+id="basefund-is-a-financial-safety-net-for-donors-to-effective-charities.">Basefund
+is a financial safety net for donors to effective charities.</h1>
+<!-- <div class=nobottommargin>![](cover.webp)</div> -->
+<p>Basefund maintains a hardship fund for people who donated to <a
+href="#eligible-charities">effective charities</a>. We believe effective
+philanthropists should run little risk of encountering financial trouble
+themselves.</p>
+<p><em>Basefund is currently in its trial phase. As such, payouts are
+capped to 1,000 USD, and we only assist people who donated in 2022 or
+2023. The fund should not be relied on as a financial buffer. Basefund
+may halt operations at any point.</em></p>
+<h2 id="applying">Applying</h2>
+<p>To apply for hardship assistance, fill in <a
+href="applicationform.pdf">this form</a> and send it to in<span
+style="display: none;">DONTCOPYTHIS</span>fo@basefund.org.</p>
+<p>Anyone who has donated to <a href="#eligible-charities">effective
+charities</a> can apply. As a part of the verification process, please
+request a copy of your donation receipts, cc’ing in<span
+style="display: none;">DONTCOPYTHIS</span>fo@basefund.org:</p>
+<blockquote>
+<p>Dear Sir/Madam,</p>
+<p>Could you send a copy of my donation receipts to me and
+info@basefund.org (cc)? This is my donation history:</p>
+<ul>
+<li>date - amount</li>
+<li>date - amount</li>
+<li>…</li>
+</ul>
+<p>Best, [Your Name]</p>
+</blockquote>
+<p>There is no need to wait for the charity’s response before submitting
+your application for hardship assistance. We aim to review applications
+within 7 days. If your application is accepted, the amount you receive
+will be the <strong>lowest</strong> of three figures:</p>
+<ol type="1">
+<li>The payout suggested by the hardship examiner</li>
+<li>50% of your donations to cost-effective charities made in 2022 and
+2023</li>
+<li>1,000 USD, or the equivalent amount in another currency</li>
+</ol>
+<p>We ask potential applicants not to fret too much about whether they
+are experiencing hardship before applying. Usually, we’ll be able to see
+right away whether an applicant is eligible.</p>
+<h2 id="donating">Donating</h2>
+<p>Basefund’s hardship fund is financed by individual donors. It
+currently operates under the fiscal sponsor Players Philantropy
+Fund.</p>
+<h2 id="eligible-charities">Eligible Charities</h2>
+<p>During the trial phase, donors to the following charities are
+eligible for hardship assistance:</p>
+<ul>
+<li>GiveWell</li>
+<li>All charities recommended by GiveWell</li>
+<li>The Life You Can Save</li>
+<li>All charities recommended by The Life You Can Save</li>
+<li>Giving What We Can</li>
+<li>All funds recommended by Giving What We Can</li>
+<li>All charities receiving funding from a fund recommended by Giving
+What We Can (this includes many long-termist charities)</li>
+</ul>
+<p>Charities which fell into one of the above categories at the time of
+donating also count towards eligibility, even if the charity is no
+longer recommended at the time of applying.</p>
+<h2 id="cut-off-date">Cut-off Date</h2>
+<p>We currently only consider donations made on or after January 1,
+2022. This cut-off date will probably slowly move to January 1,
+2012.</p>
+<h2 id="contact">Contact</h2>
+<p>If you have any questions, please email us at in<span
+style="display: none;">DONTCOPYTHIS</span>fo@basefund.org.</p>
+<footer>
+<p><img src="bob-de-ruiter.png" /> <img src="bob-de-ruiter.png" /> <img
+src="bob-de-ruiter.png" /></p>
+</footer>
+</body>
+</html>
