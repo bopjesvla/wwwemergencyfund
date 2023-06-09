@@ -30,7 +30,7 @@ body::after {margin-bottom: -70%;}
 
 <!-- <div class=nobottommargin>![](cover.webp)</div> -->
 
-Basefund maintains a hardship fund for people who donated to [effective charities](#eligible-charities). We believe effective philanthropists should run little risk of encountering financial trouble themselves.
+Basefund maintains a hardship fund for people who donated to [effective charities](#eligible-charities). We believe donors to effective charities should run little risk of encountering financial trouble themselves.
 
 *Basefund is currently in its trial phase. As such, payouts are capped to 1,000 USD, and we only assist people who donated in 2022 or 2023. The fund should not be relied on as a financial buffer. Basefund may halt operations at any point.*
 
