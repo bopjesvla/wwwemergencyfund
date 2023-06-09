@@ -78,7 +78,7 @@ Charities which fell into one of the above categories at the time of donating al
 
 ## Cut-off Date
 
-We currently only consider donations made on or after January 1, 2022. This cut-off date will probably slowly move to January 1, 2012.
+We currently only consider donations made on or after January 1, 2022. In the future, this cut-off date might slowly move to January 1, 2012.
 
 ## About
 
