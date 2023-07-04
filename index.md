@@ -52,7 +52,7 @@ Anyone who has donated to [effective charities](#eligible-charities) can apply. 
 
 There is no need to wait for the charity's response before submitting your application for hardship assistance. We aim to review applications within 7 days. If your application is accepted, the amount you receive will be the **lowest** of three figures:
 
-1. The payout suggested by the hardship examiner
+1. The payout suggested by the hardship examiners
 2. 50% of your donations to cost-effective charities made in 2022 and 2023
 3. 1,000 USD, or the equivalent amount in another currency
 
@@ -60,11 +60,11 @@ We ask potential applicants not to fret too much about whether they are experien
 
 ## Donating
 
-Basefund's hardship fund is financed by individual donors. It currently operates under the US fiscal sponsor Players Philantropy Fund, meaning donations are tax-deductible in the US. Our banking information can be found [here](Basefund-letter.pdf) and our pledge form can be found [here](Basefund-pledgeform.pdf). If your donation exceeds $1000 USD, please fill in the pledge form and send it to info@basefund.org.
+Basefund's hardship fund is financed by individual donors. It currently operates under the US fiscal sponsor Players Philantropy Fund, meaning donations are tax-deductible in the US. Our banking information can be found [here](Basefund-letter.pdf) and our pledge form can be found [here](Basefund-pledgeform.pdf). If your donation exceeds 1,000 USD, please fill in the pledge form and send it to info@basefund.org.
 
 ## Eligible Charities
 
-During the trial phase, donors to the following charities are eligible for hardship assistance:
+At least during the trial phase, donors to the following charities are eligible for hardship assistance:
 
 - GiveWell
 - All charities recommended by GiveWell
@@ -84,4 +84,6 @@ We currently only consider donations made on or after January 1, 2022. In the fu
 
 Basefund is chaired by Bob de Ruiter. Applications are reviewed by a team of three: Gabor Kocsi, Manuel Allgaier, and Bob de Ruiter.
 
-If you have any questions, please email us at in<span style='display: none;'>DONTCOPYTHIS</span>fo@basefund.org.
+We will never share your personal data unless you explicitly give permission. If you have any questions, please email us at in<span style='display: none;'>DONTCOPYTHIS</span>fo@basefund.org.
+
+*<small>During its trial phase, Basefund operates as a project of Players Philanthropy Fund, a Maryland charitable trust recognized by IRS as a tax-exempt public charity under Section 501(c)(3) of  the  Internal  Revenue  Code  (Federal  Tax  ID:  27-6601178).  Contributions  to Basefund are tax-deductible to the fullest extent of US law.</small>*
