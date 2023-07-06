@@ -52,7 +52,7 @@ Anyone who has donated to [effective charities](#eligible-charities) can apply. 
 
 There is no need to wait for the charity's response before submitting your application for hardship assistance. We aim to review applications within 7 days. If your application is accepted, the amount you receive will be the **lowest** of three figures:
 
-1. The payout suggested by the hardship examiners
+1. The payout suggested by our hardship examiners
 2. 50% of your donations to cost-effective charities made in 2022 and 2023
 3. 1,000 USD, or the equivalent amount in another currency
 
