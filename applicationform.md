@@ -90,6 +90,10 @@ Name of account holder
 
 # 3. Hardship
 
+What sources of income do you have? What is your monthly income?
+
+\TextField[name=hardship, width=\hsize,multiline=true,height=6\baselineskip]{}
+
 Describe the hardship you are experiencing. What problems do you foresee? What is your financial situation? What things or services do you need?
 
 \TextField[name=hardship, width=\hsize,multiline=true,height=12\baselineskip]{}
@@ -126,14 +130,14 @@ If any donations originated from shared property (e.g. marital property, joint b
 
 # 5. Returned Funds
 
-\CheckBox{\ \unskip}\ I understand that I am eligible to receive hardship payments worth up to 50% of my lifetime donations to cost-effective charities. I understand that when a charity returns a donation to me, I am no longer eligible for hardship payments on the returned funds. I agree to inform Basefund when charities return donations to me, and to send back hardship payments I am no longer eligible for.
+\CheckBox{\ \unskip}\ I understand that I am eligible to receive hardship payments worth up to 50% of my donations to cost-effective charities. I understand that when a charity returns a donation to me, I am no longer eligible for hardship payments on the returned funds. I agree to inform Basefund when charities return donations to me, and to send back hardship payments I am no longer eligible for.
 
 # 6. Application Process
 
 We aim to review your application within 7 days. If your application is accepted, the amount you receive will be the **lowest** of three figures:
 
 1. The payout suggested by the hardship examiner
-2. 50% of your lifetime donations to cost-effective charities
+2. 50% of your donations to cost-effective charities in 2022 and 2023
 3. 1,000 USD, or the equivalent amount in another currency
 
 In certain cases where we are unable to pay out the full amount specified in section 3, we will suggest institutions that may be able to assist in bridging the gap. To expedite this process, we could share an outline of your application with other charitable funds.
