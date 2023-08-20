@@ -60,7 +60,7 @@ We ask potential applicants not to fret too much about whether they are experien
 
 ## Donating
 
-Basefund's hardship fund is financed by individual donors. It currently operates under the US fiscal sponsor Players Philantropy Fund, meaning donations are tax-deductible in the US. Our banking information can be found [here](Basefund-letter.pdf) and our pledge form can be found [here](Basefund-pledgeform.pdf). If your donation exceeds 2,000 USD, please fill in the pledge form and send it to info@basefund.org.
+Basefund's hardship fund is financed by individual donors. It currently operates under the US fiscal sponsor Players Philantropy Fund, meaning donations are tax-deductible in the US. Our banking information can be found [here](Basefund-letter.pdf) and our pledge form can be found [here](Basefund-pledgeform.pdf). If your donation exceeds 1,000 USD, please fill in the pledge form and send it to info@basefund.org.
 
 ## Eligible Charities
 
