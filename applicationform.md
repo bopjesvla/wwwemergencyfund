@@ -104,7 +104,7 @@ How much money do you need to alleviate your hardship? If you are unsure, you ma
 
 # 4. Donations
 
-**In this section, only include donations made on or after January 1, 2022.**
+**In this section, only include donations made on or after January 1, 2021.**
 
 What cost-effective charity did you donate most to?
 
@@ -137,8 +137,8 @@ If any donations originated from shared property (e.g. marital property, joint b
 We aim to review your application within 7 days. If your application is accepted, the amount you receive will be the **lowest** of three figures:
 
 1. The payout suggested by the hardship examiner
-2. 50% of your donations to cost-effective charities in 2022 and 2023
-3. 1,000 USD, or the equivalent amount in another currency
+2. 50% of your donations to cost-effective charities in or after 2021
+3. 2,000 USD, or the equivalent amount in another currency
 
 In certain cases where we are unable to pay out the full amount specified in section 3, we will suggest institutions that may be able to assist in bridging the gap. To expedite this process, we could share an outline of your application with other charitable funds.
 

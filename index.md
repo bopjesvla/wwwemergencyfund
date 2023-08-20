@@ -32,7 +32,7 @@ body::after {margin-bottom: -70%;}
 
 Basefund maintains a hardship fund for people who donated to [effective charities](#eligible-charities). We believe donors to effective charities should run little risk of encountering financial trouble themselves.
 
-*Basefund is currently in its trial phase. As such, payouts are capped to 1,000 USD, and we only assist people who donated in 2022 or 2023. The fund should not be relied on as a financial buffer. Basefund may halt operations at any point.*
+*Basefund is currently in its trial phase. As such, payouts are capped to 2,000 USD, and we only assist people who donated in or after 2021. The fund should not be relied on as a financial buffer. Basefund may halt operations at any point.*
 
 ## Applying
 
@@ -53,14 +53,14 @@ Anyone who has donated to [effective charities](#eligible-charities) can apply. 
 There is no need to wait for the charity's response before submitting your application for hardship assistance. We aim to review applications within 7 days. If your application is accepted, the amount you receive will be the **lowest** of three figures:
 
 1. The payout suggested by our hardship examiners
-2. 50% of your donations to cost-effective charities made in 2022 and 2023
-3. 1,000 USD, or the equivalent amount in another currency
+2. 50% of your donations to cost-effective charities made in or after 2021
+3. 2,000 USD, or the equivalent amount in another currency
 
 We ask potential applicants not to fret too much about whether they are experiencing hardship before applying. Usually, we'll be able to see right away whether an applicant is eligible.
 
 ## Donating
 
-Basefund's hardship fund is financed by individual donors. It currently operates under the US fiscal sponsor Players Philantropy Fund, meaning donations are tax-deductible in the US. Our banking information can be found [here](Basefund-letter.pdf) and our pledge form can be found [here](Basefund-pledgeform.pdf). If your donation exceeds 1,000 USD, please fill in the pledge form and send it to info@basefund.org.
+Basefund's hardship fund is financed by individual donors. It currently operates under the US fiscal sponsor Players Philantropy Fund, meaning donations are tax-deductible in the US. Our banking information can be found [here](Basefund-letter.pdf) and our pledge form can be found [here](Basefund-pledgeform.pdf). If your donation exceeds 2,000 USD, please fill in the pledge form and send it to info@basefund.org.
 
 ## Eligible Charities
 
@@ -78,7 +78,7 @@ Charities which fell into one of the above categories at the time of donating al
 
 ## Cut-off Date
 
-We currently only consider donations made on or after January 1, 2022. In the future, this cut-off date might slowly move to January 1, 2012.
+We currently only consider donations made on or after January 1, 2021. In the future, this cut-off date might slowly move to January 1, 2012.
 
 ## About
 
